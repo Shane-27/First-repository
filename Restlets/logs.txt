@@ -1,0 +1,170 @@
+result       : [2 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 32669170
+item         : 475567
+itemId       : 475567
+bininternalid: 1790
+quantity     : 800
+trandate     : 3/10/2024
+----------------------------
+result       : [4 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 32765697
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 800
+trandate     : 11/10/2024
+----------------------------
+result       : [6 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 32793543
+item         : 475567
+itemId       : 475567
+bininternalid: 6856
+quantity     : 600
+trandate     : 15/10/2024
+----------------------------
+result       : [8 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 33015198
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 500
+trandate     : 5/11/2024
+----------------------------
+result       : [10 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 33256192
+item         : 475567
+itemId       : 475567
+bininternalid: 1786
+quantity     : 100
+trandate     : 25/11/2024
+----------------------------
+result       : [12 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 33353496
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 100
+trandate     : 3/12/2024
+----------------------------
+result       : [14 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 34136509
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 200
+trandate     : 14/2/2025
+----------------------------
+result       : [16 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 34203549
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 98
+trandate     : 20/2/2025
+----------------------------
+result       : [18 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 34670330
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 575
+trandate     : 10/5/2025
+----------------------------
+result       : [20 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 34804343
+item         : 475567
+itemId       : 475567
+bininternalid: 6802
+quantity     : 700
+trandate     : 2/6/2025
+----------------------------
+result       : [22 / 30]
+item         : [1 / 2]
+line         : [1 / 1]
+binTransferId: 34831029
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 300
+trandate     : 5/6/2025
+----------------------------
+result       : [22 / 30]
+item         : [2 / 2]
+line         : [1 / 1]
+binTransferId: 34831029
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 100
+trandate     : 5/6/2025
+----------------------------
+result       : [24 / 30]
+item         : [1 / 2]
+line         : [1 / 1]
+binTransferId: 34831029
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 300
+trandate     : 5/6/2025
+----------------------------
+result       : [24 / 30]
+item         : [2 / 2]
+line         : [1 / 1]
+binTransferId: 34831029
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 100
+trandate     : 5/6/2025
+----------------------------
+result       : [26 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 34935165
+item         : 475567
+itemId       : 475567
+bininternalid: 5242
+quantity     : 200
+trandate     : 23/6/2025
+----------------------------
+result       : [28 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 34955757
+item         : 475567
+itemId       : 475567
+bininternalid: 405
+quantity     : 400
+trandate     : 26/6/2025
+----------------------------
+result       : [30 / 30]
+item         : [1 / 1]
+line         : [1 / 1]
+binTransferId: 34967010
+item         : 475567
+itemId       : 475567
+bininternalid: 6802
+quantity     : 400
+trandate     : 28/6/2025
+----------------------------
